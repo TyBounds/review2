@@ -17,4 +17,8 @@
 # When the loop is finished, print "Who do we appreciate?"
 # Remember how range can be used to create the list [2,4,6,8]
 # When complete, commit to github and submit a pull request!
-
+list1 = [2,4,6,8]
+for i in list1:
+    print i
+print 'Who do we appreciate'
+    
